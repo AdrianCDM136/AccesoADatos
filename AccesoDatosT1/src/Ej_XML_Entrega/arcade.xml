@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<maquinas>
+    <maquina id="101">
+        <nombre>Taburete arcade personalizado con diseño de Street Fighter Ryu y Ken.</nombre>
+        <giro>Giro 360 grados y ajustable en altura.</giro>
+        <baseyPie>Base y pie de acero cromado.</baseyPie>
+        <reposapies>Reposapiés cromado.</reposapies>
+        <proteccion>Protección antideslizante en la base.</proteccion>
+        <acabado>Acabado de alta calidad y muy firme.</acabado>
+        <asiento>Asiento acolchado.</asiento>
+        <altura>aprox. 63 – 84 cm.</altura>
+        <asiento>aprox. 35 cm.</asiento>
+        <base>aprox. 39 cm.</base>
+        <Distancia>aprox. 43 cm.</Distancia>
+        <pie>aprox. 6 cm.</pie>
+        <peso>aprox. 4,8 kg.</peso>
+        <material>cuero sintético, acero cromado, plástico y tela.</material>
+    </maquina>
+    <maquina id="102">
+        <nombre>Taburete arcade personalizado con diseño de Street Fighter Ryu y Ken.</nombre>
+        <giro>Giro 360 grados y ajustable en altura.</giro>
+        <baseyPie>Base y pie de acero cromado.</baseyPie>
+        <reposapies>Reposapiés cromado.</reposapies>
+        <proteccion>Protección antideslizante en la base.</proteccion>
+        <acabado>Acabado de alta calidad y muy firme.</acabado>
+        <asiento>Asiento acolchado.</asiento>
+        <altura>aprox. 63 – 84 cm.</altura>
+        <asiento>aprox. 35 cm.</asiento>
+        <base>aprox. 39 cm.</base>
+        <Distancia>aprox. 43 cm.</Distancia>
+        <pie>aprox. 6 cm.</pie>
+        <peso>aprox. 4,8 kg.</peso>
+        <material>cuero sintético, acero cromado, plástico y tela.</material>
+    </maquina>
+    <maquina id="103">
+        <nombre>Taburete arcade personalizado con diseño de Mario Bros.</nombre>
+        <giro>Giro 360 grados y ajustable en altura.</giro>
+        <baseyPie>Base y pie de acero cromado.</baseyPie>
+        <reposapies>Reposapiés cromado.</reposapies>
+        <proteccion>Protección antideslizante en la base.</proteccion>
+        <acabado>Acabado de alta calidad y muy firme.</acabado>
+        <asiento>Asiento acolchado.</asiento>
+        <altura>aprox. 63 – 84 cm.</altura>
+        <asiento>aprox. 35 cm.</asiento>
+        <base>aprox. 39 cm.</base>
+        <Distancia>aprox. 43 cm.</Distancia>
+        <pie>aprox. 6 cm.</pie>
+        <peso>aprox. 4,8 kg.</peso>
+        <material>cuero sintético, acero cromado, plástico y tela.</material>
+    </maquina>
+</maquinas>
+
